@@ -17,6 +17,7 @@ SQL with NAS
 ## Scenario 3: Hybrid 
 AzureStack
 
+
 # Agenda and next steps 
 
 ## Track1
