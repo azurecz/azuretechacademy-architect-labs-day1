@@ -114,9 +114,28 @@ Useful links:
 * [Check Point CloudGuard for Azure](https://www.checkpoint.com/downloads/products/cloudguard-microsoft-azure-solution-brief.pdf)
 
 ## Scenario 5: Migrate SQL cluster into Azure
-SQL with NAS
-
 Existing environment:
+* SQL Server in HA configured for using shared storage
+* Legacy app
+  * Requires native SQL Server features and cannot be migrated to PaaS
+  * Server is installed on 8-core system and you own licenses with Software Assurance (Enterprise)
+  * Database size is 1TB
+* Apps that will be refactored
+  * 5 apps that can be refactored to use Azure SQL DB (PaaS)
+  * All apps are using separate DB instances on SQL server installed on 8-core system
+  * Apps are business critical with AlwaysOn configured
+  * Read replicas are used for reporting so master does not get performance hit during reporting reads
+  * Overall size of all databases together is 1TB
+  * Applications require low latency
+  * Current server is 8-core system
+  * You own licenses with Software Assurance (Enterprise)
+
+Migrate applications with SQL to Azure:
+* Design SQL Server in Azure IaaS and provide sizing
+* Design Azure SQL DB (PaaS) and provide sizing
+* Ensure existing licenses can be leveraged to save costs
+* You plan to use system for at least 3 years and find right cost optimization
+* Advice on procedure and tooling for data migration
 
 Useful links:
 
