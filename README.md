@@ -93,17 +93,25 @@ Useful links:
 ## Scenario 4: Hybrid infrastructure
 Existing environment:
 * 3 modern customer-facing applications deployed in Azure that need backend connectivity to on-prem systems
-* 50 legacy applications on-premises, some using Windows 2008
+* 50 legacy applications on-premises, some stil using Windows 2008 and SQL2008, VMware as hypervisor
 
 Architect hybrid solution to meet following goals:
 * Propose network connectivity and network security solution.
 * Security team is using Check Point and want central management of all environments from network policy perspective.
+* Security team requires publication of applications in Azure via Web Application Firewall
 * Windows 2008 is EOS, propose solution knowing that applications redesign to support newer OS is very expensive.
 * There is strong need for private cloud due to regulations and latency concerns on one side and need for agility and creating more moderns apps on the other side. Describe solution for quick introduction of private cloud and streamline operations of deploying applications in hybrid manner to Azure and private cloud. Describe consistent deployment and operatins strategy, tooling and integrations.
 * Provide solution to synchronize documents and other files between Azure and on-premises environment.
 * Propose tooling and process to migrate selected VMs from on-premises to Azure.
 
 Useful links:
+* [Azure virtual datacenter](https://docs.microsoft.com/en-us/azure/architecture/vdc/)
+* [Azure Migrate](https://azure.microsoft.com/cs-cz/services/azure-migrate/)
+* [Windows 2008 and SQL 2008 EOS](https://azure.microsoft.com/en-us/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)
+* [Azure Stack](https://azure.microsoft.com/en-us/overview/azure-stack/)
+* [Azure File Sync](https://docs.microsoft.com/en-us/azure/storage/files/storage-sync-files-planning)
+* [Azure Application Gateway](https://docs.microsoft.com/cs-cz/azure/application-gateway/overview)
+* [Check Point CloudGuard for Azure](https://www.checkpoint.com/downloads/products/cloudguard-microsoft-azure-solution-brief.pdf)
 
 ## Scenario 5: Migrate SQL cluster into Azure
 SQL with NAS
