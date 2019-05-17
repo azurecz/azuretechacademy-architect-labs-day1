@@ -75,8 +75,20 @@ Architect solution to protect and monitor your environment leveraging Azure
 * Monitor VM health, aggregate logs, monitor telemetry
 * Monitor network traffic and communications between components
 * Monitor security including Update management, changes in system files and installed applications
+* Add application monitoring
 * Add cloud-based SIEM solution
-* Use Azure as DR location with RPO <6h and RTO <6h
+* Use Azure as DR location with RPO <2h and RTO <6h
+
+Useful links:
+* [Azure Backup](https://azure.microsoft.com/en-us/services/backup/)
+* [Azure Site Recovery](https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-overview)
+* [Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/)
+* [Azure Sentinel](https://azure.microsoft.com/cs-cz/services/azure-sentinel/)
+* [Azure Monitor](https://azure.microsoft.com/cs-cz/services/monitor/)
+* [Azure Application Insights](https://docs.microsoft.com/cs-cz/azure/azure-monitor/app/app-insights-overview)
+* [Azure Monitor VM Health](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/vminsights-health)
+* [Azure Monitor Map](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/vminsights-maps)
+* [Azure Archival Storage](https://azure.microsoft.com/en-us/services/storage/archive/)
 
 ## Scenario 4: Hybrid infrastructure
 Existing environment:
@@ -91,8 +103,14 @@ Architect hybrid solution to meet following goals:
 * Provide solution to synchronize documents and other files between Azure and on-premises environment.
 * Propose tooling and process to migrate selected VMs from on-premises to Azure.
 
+Useful links:
+
 ## Scenario 5: Migrate SQL cluster into Azure
 SQL with NAS
+
+Existing environment:
+
+Useful links:
 
 # Agenda and next steps 
 
