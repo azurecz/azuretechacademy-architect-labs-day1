@@ -55,6 +55,14 @@ Architect solution to leverage Azure for DevTest and training environments:
 * Find easy to use solution for support people and training team so they can easily create VMs without knowing too much about Azure, how it works and how applications are deployed
 * For DevTest keep in mind that in mid-term there is plan to also use Azure for production on some of applications so procedures for DevTest should help you gain experience that you can leverage to deploy production in Azure
 
+Useful links:
+* [DevTest Labs](https://azure.microsoft.com/en-us/services/devtest-lab/)
+* [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/)
+* [Azure Automation](https://azure.microsoft.com/en-us/services/automation/)
+* [VM auto start/shut](https://docs.microsoft.com/en-us/azure/automation/automation-solution-vm-management)
+* [Azure Logic Apps](https://azure.microsoft.com/en-us/services/logic-apps/)
+* [Shared Image Library](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/shared-image-galleries)
+
 ## Scenario 3: Protect and monitor your on-premises environment
 Existing environment:
 * 10 applications using Windows platform, .NET, SQL and joined to AD
