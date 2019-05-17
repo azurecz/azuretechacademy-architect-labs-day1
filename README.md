@@ -32,7 +32,16 @@ Design solution and describe areas of concern to enable Azure in organization:
 * Design integration with ITSM a SIEM
 
 ## Scenario 2: DevTest hybrid environment
-VM, OS, budget
+Existing environment:
+* Dev and test environment is built manually, there are capacity and agility issues. Continuos Integration is used mainly with Team Foundation Server, but there are teams using Jenkins also.
+* QA team is manually installing latest build to test new application versions
+* Support and training team is manually installing deployed versions in sandbox environment to replicate reported bugs and train users
+
+Architect solution to leverage Azure for DevTest and training environments:
+* Design architecture, process and tooling to automatically create DevTest environments in Azure
+* Design techniques to manage costs and protect company from using more than needed (such as running VMs that are not used over night)
+* Find easy to use solution for support people and training team so they can easily create VMs without knowing too much about Azure, how it works and how applications are deployed
+* For DevTest keep in mind that in mid-term there is plan to also use Azure for production on some of applications so procedures for DevTest should help you gain experience that you can leverage to deploy production in Azure
 
 ## Scenario 3: Protect and monitor your on-premises environment
 Existing environment:
