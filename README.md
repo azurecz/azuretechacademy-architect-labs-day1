@@ -31,6 +31,18 @@ Design solution and describe areas of concern to enable Azure in organization:
 * Design network architecture to meet segmentation goals and private connectivity between Azure and on-premises data centers
 * Design integration with ITSM a SIEM
 
+Useful links:
+* [Azure readiness guide](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/ready/azure-readiness-guide/)
+* [Governance guide](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/governance/journeys/)
+* [Onboarding guide](https://azure.microsoft.com/mediahandler/files/resourcefiles/d8e7430c-8f62-4bbb-9ca2-f2bc877b48bd/Azure%20Onboarding%20Guide%20for%20IT%20Organizations.pdf)
+* [Enterprise cloud adoption](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/appendix/azure-scaffold)
+* [Azure virtual datacenter](https://docs.microsoft.com/en-us/azure/architecture/vdc/)
+* [AAD features and editions](https://azure.microsoft.com/en-us/pricing/details/active-directory/)
+* [SIEM integration](https://azure.microsoft.com/en-us/blog/use-azure-monitor-to-integrate-with-siem-tools/)
+* [ITSM integration](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/itsmc-overview)
+* [Cost management](https://azure.microsoft.com/en-us/services/cost-management/)
+* [Azure Blueprints](https://azure.microsoft.com/en-us/services/blueprints/)
+
 ## Scenario 2: DevTest hybrid environment
 Existing environment:
 * Dev and test environment is built manually, there are capacity and agility issues. Continuos Integration is used mainly with Team Foundation Server, but there are teams using Jenkins also.
