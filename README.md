@@ -77,7 +77,7 @@ Architect solution to protect and monitor your environment leveraging Azure
 * Monitor security including Update management, changes in system files and installed applications
 * Add application monitoring
 * Add cloud-based SIEM solution
-* Use Azure as DR location with RPO <2h and RTO <6h
+* Use Azure as DR location for business critical apps with RPO <2h and RTO <6h
 
 Useful links:
 * [Azure Backup](https://azure.microsoft.com/en-us/services/backup/)
