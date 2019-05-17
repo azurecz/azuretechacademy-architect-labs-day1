@@ -3,12 +3,17 @@ Focus on different architect scenarios of hybrid cloud.
 
 Azure Stencils [download](!https://www.microsoft.com/en-us/download/details.aspx?id=41937).
 
-What to answer for each scenario
-- Detailed schema - Azure components, network design, security aspects
-- Role management
-- Price (price calculator)
+Example solution
+- schema https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/identity/azure-ad
+- description https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/identity/azure-ad#architecture
+- pricing https://azure.microsoft.com/en-us/pricing/calculator/
 
-## Scenario 1: Enable Azure in organization
+Timing: 
+- 10min intro 
+- 50min design
+- 20min presentation and recommended solution
+
+## Scenario 1: Enable Azure in organization 
 Existing environment:
 * Active Directory for whole company that is synchronized with AAD Connect to Azure Active Directory, that is used for Office365, which has been deployed last year
 * For DevTest environment there is separate AD domain for developers to be able to create service accounts, accounts for external developers and configurations without affecting security if main AD
