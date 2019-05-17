@@ -1,7 +1,7 @@
 # Azure Technical Academy - Architect track 01
 Focus on different architect scenarios of hybrid cloud.
 
-Azure Stencils [download](!https://www.microsoft.com/en-us/download/details.aspx?id=41937).
+Azure Stencils [download](https://www.microsoft.com/en-us/download/details.aspx?id=41937).
 
 Example solution
 - schema https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/identity/azure-ad
