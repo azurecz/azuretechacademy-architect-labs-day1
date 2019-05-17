@@ -138,6 +138,11 @@ Migrate applications with SQL to Azure:
 * Advice on procedure and tooling for data migration
 
 Useful links:
+* [SQL in Azure selection guide](https://docs.microsoft.com/cs-cz/azure/sql-database/sql-database-paas-vs-sql-server-iaas)
+* [SQL Server in Azure IaaS](https://azure.microsoft.com/cs-cz/services/virtual-machines/sql-server/)
+* [Azure SQL DB](https://azure.microsoft.com/cs-cz/services/sql-database/)
+* [Azure SQL DB purchasing models](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-purchase-models)
+* [Azure Data Migration Service](https://azure.microsoft.com/en-us/services/database-migration/)
 
 # Agenda and next steps 
 
