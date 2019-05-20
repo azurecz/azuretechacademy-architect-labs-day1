@@ -1,7 +1,12 @@
 # Azure Technical Academy - Architect track 01
 Focus on different architect scenarios of hybrid cloud.
 
-Azure Stencils [download](https://www.microsoft.com/en-us/download/details.aspx?id=41937).
+Azure Stencils
+* Go to Visio
+* Open shapes
+* Search for word "cloud" and click for Online results
+* Download Microsoft Azure Cloud Icons
+* If you have older Visio you can download older stencils directly [here](https://architects.blob.core.windows.net/visio/CnE_CloudV2.7.vss?st=2019-05-20T05%3A27%3A00Z&se=2020-05-21T07%3A27%3A00Z&sp=rl&sv=2018-03-28&sr=b&sig=IELwMsknjeDR3E2fQcfyDa1lOG3hHIiHvLe4gyXMn0U%3D)
 
 Example solution
 - schema https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/identity/azure-ad
