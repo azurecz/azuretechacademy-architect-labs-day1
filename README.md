@@ -13,6 +13,7 @@ Example solution
 - schema https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/identity/azure-ad
 - description https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/identity/azure-ad#architecture
 - pricing https://azure.microsoft.com/en-us/pricing/calculator/
+- example architectures [https://azure.microsoft.com/en-us/solutions/architecture/](https://azure.microsoft.com/en-us/solutions/architecture/)
 
 Timing: 
 - 10min intro 
