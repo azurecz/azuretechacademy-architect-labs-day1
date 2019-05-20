@@ -176,7 +176,10 @@ Prerequisites: Notebook with Visio (or similar tool)
 Dates: Prague 20.5.19, Bratislava 30.5.
 
 ## Homework 1
-TODO
+Take some time to relax and revisit all scenarios and documentation to sharpen your skills. In few weeks after sessions we will assign homework and you will have 6-8 weeks to complete it. Send results to us via private message in our Teams (logins to Teams will be provided soon).
+
+## Homework 2
+About 2 weeks before next session we will post here what topics will be discussed and provide you with links in case you would like to study before session starts.
 
 ## Contacts
 
