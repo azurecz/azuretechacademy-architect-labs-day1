@@ -25,7 +25,7 @@ Timing:
 * Open storage explorer and connect to storage (key will be active only for duration of our workshop)
     * Click on electricity plug icon on left side and select Use a storage account name and key
     * Use following Account Name: architects
-    * Use following Account Key: hFQ1zhe/x/J4I0dz9T6DkHy/+4KJaNWC3Rr1cf0fTKvtBKNMnIgndg41S/+1wU2jYqAWt0vnQNZhgwImACsdXQ==
+    * Use following Account Key: <- will be provided at training date ->
     * Go to architects, Blob Containers, right-click and create container for your group
     * Upload results of your work to container with prefix scenario1 etc.
 
