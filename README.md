@@ -13,6 +13,17 @@ Timing:
 - 50min design
 - 20min presentation and recommended solution
 
+# How to upload results of your work
+* Download and install storage explorer [here](https://azure.microsoft.com/en-us/features/storage-explorer/)
+* Open storage explorer and connect to storage (key will be active only for duration of our workshop)
+    * Click on electricity plug icon on left side and select Use a storage account name and key
+    * Use following Account Name: architects
+    * Use following Account Key: hFQ1zhe/x/J4I0dz9T6DkHy/+4KJaNWC3Rr1cf0fTKvtBKNMnIgndg41S/+1wU2jYqAWt0vnQNZhgwImACsdXQ==
+    * Go to architects, Blob Containers, right-click and create container for your group
+    * Upload results of your work to container with prefix scenario1 etc.
+
+# Scenarios
+
 ## Scenario 1: Enable Azure in organization 
 Existing environment:
 * Active Directory for whole company that is synchronized with AAD Connect to Azure Active Directory, that is used for Office365, which has been deployed last year
