@@ -112,6 +112,7 @@ Useful links:
 * [Azure Monitor VM Health](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/vminsights-health)
 * [Azure Monitor Map](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/vminsights-maps)
 * [Azure Archival Storage](https://azure.microsoft.com/en-us/services/storage/archive/)
+* [DR architectures](https://azure.microsoft.com/en-us/solutions/architecture/disaster-recovery-enterprise-scale-dr/)
 
 ## Scenario 4: Hybrid infrastructure
 Existing environment:
