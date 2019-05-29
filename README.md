@@ -14,6 +14,7 @@ Example solution
 - description https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/identity/azure-ad#architecture
 - pricing https://azure.microsoft.com/en-us/pricing/calculator/
 - example architectures [https://azure.microsoft.com/en-us/solutions/architecture/](https://azure.microsoft.com/en-us/solutions/architecture/)
+- book [Azure for Architects](https://azure.microsoft.com/en-us/resources/azure-for-architects/)
 
 Timing: 
 - 10min intro 
