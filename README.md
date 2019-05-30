@@ -22,13 +22,9 @@ Timing:
 - 20min presentation and recommended solution
 
 # How to upload results of your work
-* Download and install storage explorer [here](https://azure.microsoft.com/en-us/features/storage-explorer/)
-* Open storage explorer and connect to storage (key will be active only for duration of our workshop)
-    * Click on electricity plug icon on left side and select Use a storage account name and key
-    * Use following Account Name: architects
-    * Use following Account Key: <- will be provided at training date ->
-    * Go to architects, Blob Containers, right-click and create container for your group
-    * Upload results of your work to container with prefix scenario1 etc.
+* It's required to upload your homework 1 week before attending next workshop
+* How to upload your homework - access https://teams.microsoft.com (you will receive email invitation to our team)
+* Certification voucher - all Azure Academy participants are eligible to request free certification voucher
 
 # Scenarios
 
