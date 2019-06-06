@@ -1,4 +1,4 @@
-# Azure Technical Academy - Architect track 01
+# Azure Technical Academy - Architect day1: hybrid cloud infrastructure
 Focus on different architect scenarios of hybrid cloud.
 
 Azure Stencils
